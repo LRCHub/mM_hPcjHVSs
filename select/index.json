@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "月の唄",
+  "base_artist": "tayori",
+  "createdAt": "2025-12-08T07:48:30.745463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月の唄",
+      "artist": "tayori",
+      "has_synced": true,
+      "path": "select/01_月の唄_tayori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月の唄",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_月の唄_tayori.txt"
+    }
+  ]
+}
